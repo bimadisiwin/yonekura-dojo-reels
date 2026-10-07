@@ -16,12 +16,14 @@ Desktop 直下には案件フォルダを増やさず、親フォルダ `米倉�
 
 - `videos/` … リール動画（mp4）
 - `stories/` … ストーリー画像（png など）
+- `manga/` … マンガコマ（例: `manga/ep01/`）
 
 ## 公開URL（jsDelivr）
 
 ```
 https://cdn.jsdelivr.net/gh/bimadisiwin/yonekura-dojo-reels@main/videos/<filename>
 https://cdn.jsdelivr.net/gh/bimadisiwin/yonekura-dojo-reels@main/stories/<filename>
+https://cdn.jsdelivr.net/gh/bimadisiwin/yonekura-dojo-reels@main/manga/ep01/<filename>
 ```
 
 ## 追加手順
